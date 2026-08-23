@@ -1,10 +1,10 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="RougeWebGameForm.aspx.cs" Inherits="RougeWebGameForm" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ShadowcastGameForm.aspx.cs" Inherits="ShadowcastGameForm" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Shadowcast Depths</title>
 </head>
 <body>
     <form id="form1" runat="server">

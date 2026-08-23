@@ -1,16 +1,16 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RougeLikeTest")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Shadowcast Depths")]
+[assembly: AssemblyDescription("A legacy C# console roguelike.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hewlett-Packard")]
-[assembly: AssemblyProduct("RougeLikeTest")]
-[assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2014")]
+[assembly: AssemblyCompany("Ernest Turner")]
+[assembly: AssemblyProduct("Shadowcast Depths")]
+[assembly: AssemblyCopyright("Copyright © Ernest Turner 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

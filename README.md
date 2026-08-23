@@ -1,8 +1,8 @@
-# RougeLikeTest
+# Shadowcast Depths
 
 **A legacy C# console roguelike built to explore the systems behind turn-based dungeon games.**
 
-RougeLikeTest is an early programming project preserved under its original name as a record of hands-on systems design and growth. Rather than relying on a game engine, it implements the core roguelike loop directly in C# and renders the dungeon in the Windows console.
+Shadowcast Depths is an early programming project preserved as a record of hands-on systems design and growth. Originally developed under the placeholder name `RougeLikeTest`, it now has a title that reflects its defining ideas: shadowcast visibility and a descent through increasingly dangerous dungeon depths. Rather than relying on a game engine, it implements the core roguelike loop directly in C# and renders the dungeon in the Windows console.
 
 ## What it demonstrates
 
@@ -16,7 +16,7 @@ RougeLikeTest is an early programming project preserved under its original name 
 
 ## Project context
 
-This repository is intentionally presented as a **legacy project**, not a modern production release. It reflects an earlier stage of development and contains rough edges typical of an exploratory build, including committed IDE/build artifacts, limited documentation, Windows-specific console behavior, and incomplete save/load support.
+This repository is intentionally presented as a **legacy project**, not a modern production release. It reflects an earlier stage of development and contains rough edges typical of an exploratory build, including limited documentation, Windows-specific console behavior, and incomplete save/load support.
 
 Those constraints are part of its value: the project shows the underlying implementation work and the evolution from experimentation toward more maintainable software practices.
 
@@ -29,7 +29,7 @@ Those constraints are part of its value: the project shows the underlying implem
 
 ## Running the project
 
-The repository includes `RougeLikeTest.sln` and targets .NET Framework 4.5.1. For the most faithful setup, open the solution in Visual Studio on Windows and build the `RougeLikeTest` console application.
+The repository includes `ShadowcastDepths.sln` and targets .NET Framework 4.5.1. For the most faithful setup, open the solution in Visual Studio on Windows and build the `ShadowcastDepths` console application.
 
 Controls shown by the game:
 
