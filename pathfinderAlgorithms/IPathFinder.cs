@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Algorithms;
 using System.Drawing;
-using RogueApp;
+using ShadowcastDepths;
 
 namespace Algorithms
 {

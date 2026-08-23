@@ -16,7 +16,7 @@ using System.Text;
 using System.Drawing;
 using System.Threading;
 using System.Collections;
-using RogueApp;
+using ShadowcastDepths;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using Algorithms;
